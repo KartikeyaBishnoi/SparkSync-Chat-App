@@ -1,0 +1,15 @@
+2024-05-02 20:11:54 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """BODY"" VARCHAR(255)": "STRINGDECODE('In the tranquil heart of the forest, where the sunlight filtered through a canopy of ancient trees, life moved at ... (2303)"; SQL statement:
+insert into message (created_date, modified_date, body, date, file_info_id, image_file, receiver_username, sender_presentation, sender_username, text_message, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [22001-199]
+2024-05-02 20:12:02 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """BODY"" VARCHAR(255)": "STRINGDECODE('In the tranquil heart of the forest, where the sunlight filtered through a canopy of ancient trees, life moved at ... (2303)"; SQL statement:
+insert into message (created_date, modified_date, body, date, file_info_id, image_file, receiver_username, sender_presentation, sender_username, text_message, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [22001-199]
+2024-05-02 20:12:07 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """BODY"" VARCHAR(255)": "STRINGDECODE('In the tranquil heart of the forest, where the sunlight filtered through a canopy of ancient trees, life moved at ... (2303)"; SQL statement:
+insert into message (created_date, modified_date, body, date, file_info_id, image_file, receiver_username, sender_presentation, sender_username, text_message, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [22001-199]
+2024-05-02 20:12:17 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """BODY"" VARCHAR(255)": "STRINGDECODE('In the tranquil heart of the forest, where the sunlight filtered through a canopy of ancient trees, life moved at ... (910)"; SQL statement:
+insert into message (created_date, modified_date, body, date, file_info_id, image_file, receiver_username, sender_presentation, sender_username, text_message, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [22001-199]
+2024-05-02 20:12:47 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Value too long for column """BODY"" VARCHAR(255)": "STRINGDECODE('In the heart of the forest, sunlight filtered through a canopy of ancient trees, casting a gentle glow on the moss... (734)"; SQL statement:
+insert into message (created_date, modified_date, body, date, file_info_id, image_file, receiver_username, sender_presentation, sender_username, text_message, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) [22001-199]
