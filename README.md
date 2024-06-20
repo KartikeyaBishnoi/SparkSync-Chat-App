@@ -33,6 +33,8 @@ This application also demonstrates some user interface capabilities such as:
 
 
 ##Screenshots
+![Alt text](images/image1.jpg?raw=true "Home Page")
+
 
 
 
