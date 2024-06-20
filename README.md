@@ -33,12 +33,19 @@ This application also demonstrates some user interface capabilities such as:
 
 
 ## Screenshots
+Home Page
 ![Alt text](images/image1.jpg?raw=true "Home Page")
+Login Page
 ![Alt text](images/image2.jpg?raw=true "Login Page")
+Login Process
 ![Alt text](images/image3.jpg?raw=true "Login Process")
+Signup Process
 ![Alt text](images/image4.jpg?raw=true "Signup Process")
+Broadcast Messages
 ![Alt text](images/image5.jpg?raw=true "Broadcast Messages")
+One-To-One Messages
 ![Alt text](images/image6.jpg?raw=true "One-To-One Messages")
+Document Sharing
 ![Alt text](images/image7.jpg?raw=true "Document Sharing")
 
 
